@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Julius+Sans+One&display=swap');
+
+
+body {
+  background-size: cover;
+  background-color: #d3d3d3;
+  font-family: 'Raleway', sans-serif;
+ 
+}
+
+h1 {
+  font-family: 'Julius Sans One', sans-serif;
+}
+
+h2,h3,h4,h5,h6 {
+  font-family: 'Raleway', sans-serif;
+}
+
+.form-group {
+  font-family: 'Raleway', sans-serif;
+}
+
+.panel-heading {
+  font-family: 'Raleway', sans-serif;
+}
+
+.articleImage {
+  float:left;
+  margin-right: 10px;
+}
+
+.panel-default .panel-heading {
+  background: #b21b1b;
+  color: #fff;
+  border-radius: 0;
+}
+
+.panel {
+  background: rgba(255,255,255,0.7);
+  border-radius: 0;
+}
+
+.panel-default {
+  border: 2px solid #b21b1b;
+}
+
+.well {
+  border-bottom: 2px solid #b21b1b;
+}
+
+.well h2 {
+  margin-top: 0;
+}
+.well .badge {
+  font-size: 16px;
+  padding: 5px 7px;
+  line-height: 12px;
+  border-radius: 12px;
+  background-color: #b21b1b;
+}
+
+.container .jumbotron {
+  background-image: url(https://bluecanyonpartners.com/wp-content/uploads/2015/06/iStock_84862873_LARGE.jpg);
+  background-size: cover;
+  color: #ffffff;
+  border: 1px solid #060147;
+}
+
+.card {
+  word-wrap: normal;
+}
+
+.mainImage{
+  float: right;
+  position: relative; top: -60px;
+  border: 2px solid #b21b1b;
+}
+
+#slider{
+  border: 2px solid #060147;
+}
+#ingredientList,
+#stepList{
+  padding: 20px;
+}
+
+ul {
+  list-style: unset !important;
+}
